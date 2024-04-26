@@ -63,7 +63,7 @@
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
-            <version>1.2.12</version>
+            <version>2.2.12</version>
         </dependency>
     </dependencies>
         <!--把java文件下的xml文件也编译进去-->
